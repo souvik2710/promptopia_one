@@ -1,0 +1,56 @@
+{
+  "analysis_timestamp": "2025-07-27T05:26:12.288153",
+  "portfolio_summary": {
+    "total_holdings": 15,
+    "total_investment": 399172.999872,
+    "current_value": 467221.87,
+    "total_pnl": 68048.870128
+  },
+  "top_holdings": [
+    {
+      "tradingsymbol": "CDSL",
+      "current_value": 230902.1,
+      "pnl": 45526.750126,
+      "quantity": 143
+    },
+    {
+      "tradingsymbol": "INFY",
+      "current_value": 37892.5,
+      "pnl": 6402.500000000004,
+      "quantity": 25
+    },
+    {
+      "tradingsymbol": "TATAMOTORS",
+      "current_value": 28870.8,
+      "pnl": 8578.800006,
+      "quantity": 42
+    },
+    {
+      "tradingsymbol": "IRCTC",
+      "current_value": 26118.75,
+      "pnl": 13819.75,
+      "quantity": 35
+    },
+    {
+      "tradingsymbol": "LT",
+      "current_value": 24103.45,
+      "pnl": 13771.449999999999,
+      "quantity": 7
+    }
+  ],
+  "sector_distribution": {
+    "BSE": {
+      "current_value": 79357.78,
+      "pnl": 19131.179999999993
+    },
+    "NSE": {
+      "current_value": 387864.08999999997,
+      "pnl": 48917.690128
+    }
+  },
+  "gemini_analysis": "## Zerodha Portfolio Analysis:\n\nThis analysis examines the provided Zerodha portfolio data, offering insights into its performance, risk profile, and potential areas for improvement.  Note that this analysis is based solely on the provided snapshot and lacks crucial information like the investment timeline and investor's risk tolerance.  A complete analysis would require additional data.\n\n**1. Portfolio Performance Analysis:**\n\n* **Overall Performance:** The portfolio has generated a 17.05% return on an investment of ₹399,173, resulting in a current value of ₹467,221.87. This is a positive outcome, but the timeframe is unknown, making it difficult to judge the performance against benchmarks.\n\n* **Best and Worst Performing Stocks:**\n\n    * **Best:** CDSL (significant gains), followed by IRCON, IRCTC, and LT.  These stocks have shown substantial price appreciation.\n    * **Worst:** HAPPSTMNDS (significant losses), followed by SANWARIA, LXCHEM, and SWIGGY. These stocks have underperformed considerably.\n\n* **Sector-wise Distribution and Performance:**  The provided data lacks sector classification for each stock.  To perform a proper sector analysis, additional information is needed.  However, a preliminary observation suggests a concentration in the IT and infrastructure sectors (based on the listed companies).\n\n\n**2. Risk Assessment:**\n\n* **Portfolio Concentration Risk:** The portfolio is highly concentrated.  A few stocks (CDSL, IRCON, IRCTC, HAPPSTMNDS) represent a significant portion of the total investment. This exposes the portfolio to substantial risk if these stocks underperform.\n\n* **Sector Concentration:**  Without sector classification, a precise assessment of sector concentration is impossible. However, the apparent concentration in a few sectors (potentially IT and infrastructure) increases the portfolio's vulnerability to sector-specific downturns.\n\n* **Individual Stock Weightage Analysis:**  To calculate precise weightage, the current market value of each holding needs to be calculated using the `quantity` and `close_price`.  This calculation reveals a significant concentration in a few holdings, increasing the overall portfolio risk.  For example, CDSL alone accounts for a substantial portion of the portfolio value.\n\n**3. Investment Insights:**\n\n* **Quality of Stock Selection:** The portfolio includes a mix of large-cap (e.g., INFY, LT) and small-cap/mid-cap stocks (e.g., SANWARIA, LXCHEM). The significant losses in some mid-cap and small-cap stocks raise concerns about the overall stock selection process.  Further investigation into the rationale behind these choices is needed.\n\n* **Dividend-Paying Stocks Analysis:** The data doesn't provide information on dividend payouts.  This information is crucial for a complete assessment of the portfolio's income generation potential.\n\n* **Growth vs. Value Stock Distribution:**  Again, without more detailed fundamental analysis of each stock, determining the growth vs. value distribution is not possible from this data alone.\n\n\n**4. Recommendations:**\n\n* **Rebalancing Suggestions:**  The portfolio requires significant rebalancing to reduce concentration risk.  Consider diversifying across more sectors and reducing the weightage of the top-performing (and potentially overvalued) stocks.  Allocate funds to underperforming stocks only after thorough due diligence and reassessment of their prospects.\n\n* **Risk Mitigation Strategies:**\n    * **Diversification:** Increase the number of holdings and diversify across sectors.\n    * **Reduce Concentration:** Sell a portion of the top holdings to reduce their overall weightage.\n    * **Stop-Loss Orders:** Implement stop-loss orders on existing positions to limit potential losses.\n\n* **Potential Opportunities for Improvement:**\n    * **Thorough Due Diligence:** Conduct thorough fundamental analysis before investing in any stock, especially small-cap and mid-cap companies.\n    * **Regular Monitoring:** Regularly monitor the portfolio's performance and rebalance as needed.\n    * **Risk Tolerance Assessment:** Define and stick to your risk tolerance level.\n\n\n**5. Market Context:**\n\nThe provided data lacks a timeframe, making it impossible to assess the portfolio's alignment with current market trends.  To provide relevant market context, information on the investment timeline and current market conditions (e.g., sector performance, overall market sentiment) is necessary.  A general observation is that the portfolio seems to have a mix of winners and losers, suggesting a lack of consistent market timing or selection strategy.  Without knowing the investment horizon, it's impossible to determine if the portfolio's performance is satisfactory.\n\n\n**Disclaimer:** This analysis is for informational purposes only and does not constitute financial advice.  Consult with a qualified financial advisor before making any investment decisions.  The analysis is limited by the data provided and a more comprehensive analysis would require additional information.\n",
+  "data_filters_applied": {
+    "min_investment_amount": 1000.0,
+    "include_zero_quantity": true
+  }
+}

@@ -1,0 +1,37 @@
+#kiteconnect
+#google-generativeai
+requests
+
+
+# Core dependencies for Zerodha Portfolio Analyzer
+kiteconnect==4.2.0
+pandas>=1.5.0
+requests>=2.28.0
+google-generativeai>=0.3.0
+
+# Data manipulation and analysis
+numpy>=1.24.0
+openpyxl>=3.1.0  # For Excel file operations
+xlsxwriter>=3.0.0  # For creating Excel reports
+
+# Logging and configuration
+python-dotenv>=1.0.0  # For environment variables
+pyyaml>=6.0  # For YAML configuration files
+
+# Optional: For advanced data visualization (if needed)
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Optional: For scheduling and automation
+schedule>=1.2.0
+APScheduler>=3.10.0
+
+# Development and testing (optional)
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.0.0  # Code formatting
+flake8>=6.0.0  # Code linting
+
+streamlit
+pyttsx3
