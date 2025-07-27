@@ -80,9 +80,9 @@ import os
 import requests
 import hashlib
 
-api_key = os.getenv('ZERODHA_API_KEY', '')
-api_secret = os.getenv('ZERODHA_API_SECRET', '') 
-request_token = "yDPy0vT2fmkTNBzU2SlGtEGCAeJo8FD1"
+api_key = "j0irwpqbp7psn0nw"
+api_secret = "0rlo7yncj2vzp722yoj2r73widtee3lr"
+request_token = "y7Q3vuIZlXGNfebqgdnTujX3pKYEIxtN"
 
 # Generate checksum
 checksum = hashlib.sha256((api_key + request_token + api_secret).encode()).hexdigest()
